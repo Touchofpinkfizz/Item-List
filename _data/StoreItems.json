@@ -19991,7 +19991,43 @@
 		"price": 121,
 		"category": "Furniture",
 		"defname": "RimFridge_SingleWallRefrigerator"
+	},
+	{
+		"abr": "cashregister",
+		"price": 173,
+		"category": "Furniture",
+		"defname": "CashRegister_CashRegister"
+	},
+	{
+		"abr": "fridgevendingmachine",
+		"price": 189,
+		"category": "Furniture",
+		"defname": "RimFridgeVendingMachine"
+	},
+	{
+		"abr": "rimnreels",
+		"price": 4167,
+		"category": "Recreation",
+		"defname": "HC_SlotMachineRed"
+	},
+	{
+		"abr": "rimoffortune",
+		"price": 4167,
+		"category": "Recreation",
+		"defname": "HC_SlotMachineBlue"
+	},
+	{
+		"abr": "rimamoolah",
+		"price": 4167,
+		"category": "Recreation",
+		"defname": "HC_SlotMachineGreen"
+	},
+	{
+		"abr": "vendingmachine",
+		"price": 154,
+		"category": "Furniture",
+		"defname": "VendingMachine"
 	}
 	],
-	"total": 3332
+	"total": 3338
 }

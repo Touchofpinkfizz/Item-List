@@ -45,7 +45,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.8.2.0"
+    "version": "3.8.3.0"
   },
   {
     "author": "Dubwise",
@@ -198,6 +198,30 @@
     "version": "1.0.8624.24517"
   },
   {
+    "author": "Uuugggg",
+    "name": "TDS Bug Fixes",
+    "steamId": "2895035527",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "DerekBickley",
+    "name": "[LTO] Colony Groups",
+    "steamId": "2345493945",
+    "version": "1.0.06"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "TD Find Lib",
+    "steamId": "2895299310",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Ctrl F",
+    "steamId": "2895300634",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "民火",
     "name": "Cut plants before building",
     "steamId": null,
@@ -232,6 +256,18 @@
     "name": "Giddy-Up! Add-on: Animal Saddles",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Krypt",
+    "name": "RWLayout",
+    "steamId": "2209393954",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Krypt",
+    "name": "Grouped Pawns Lists",
+    "steamId": "2340773428",
+    "version": "1.0.0"
   },
   {
     "author": "Falconne",
@@ -291,7 +327,7 @@
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
-    "version": "2.6.0.0"
+    "version": "2.8.0.0"
   },
   {
     "author": "Torann",
@@ -411,7 +447,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.14.3.0"
+    "version": "1.14.4.0"
   },
   {
     "author": "ruPal",
@@ -808,11 +844,5 @@
     "name": "[KV] Don't stop the music",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "DerekBickley",
-    "name": "[LTO] Colony Groups",
-    "steamId": "2345493945",
-    "version": "1.0.06"
   }
 ]

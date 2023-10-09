@@ -45,7 +45,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.8.3.0"
+    "version": "3.8.7.0"
   },
   {
     "author": "Dubwise",
@@ -138,16 +138,40 @@
     "version": "1.13.0"
   },
   {
+    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
+  },
+  {
     "author": "Sarg Bjornson and AFriend",
     "name": "Alpha Animals",
     "steamId": "1541721856",
     "version": "1.0.0.0"
   },
   {
+    "author": "Romyashi",
+    "name": "Drop Loot When Destroyed Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Romyashi",
+    "name": "Ancient Junk Loot",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
     "version": "1.0.8420.33175"
+  },
+  {
+    "author": "Revolus",
+    "name": "Animals are fun",
+    "steamId": "2108362126",
+    "version": "2020.5.30.0"
   },
   {
     "author": "Razor 2.3",
@@ -189,13 +213,31 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.6.0.0"
+    "version": "2.6.1.0"
   },
   {
     "author": "Dylan",
     "name": "Children, school and learning",
     "steamId": "1541438230",
     "version": "1.7.5.1"
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Killathon",
+    "name": "Mechanical Humanlikes Core",
+    "steamId": "2974524016",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Killathon",
+    "name": "MH: Android Tiers Core",
+    "steamId": "2974536022",
+    "version": "1.0.0.0"
   },
   {
     "author": "avilmask",
@@ -249,7 +291,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.6.5.0"
+    "version": "1.6.6.0"
   },
   {
     "author": "Roolo and Owlchemist",
@@ -278,12 +320,6 @@
   {
     "author": "Falconne",
     "name": "Heat Map (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Orion",
-    "name": "Hospitality",
     "steamId": null,
     "version": null
   },
@@ -333,13 +369,13 @@
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
-    "version": "2.8.0.0"
+    "version": "2.9.0.0"
   },
   {
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.6.0.8"
+    "version": "2.6.0.9"
   },
   {
     "author": "Kure",
@@ -390,6 +426,12 @@
     "version": "1.0.8393.27870"
   },
   {
+    "author": "Giant Space Hamster",
+    "name": "Moody",
+    "steamId": "826998327",
+    "version": "2.5.9.0"
+  },
+  {
     "author": "sirrandoo",
     "name": "More Pause Events",
     "steamId": "1874708724",
@@ -405,6 +447,12 @@
     "author": "Ogre",
     "name": "OgreStack",
     "steamId": "1447140290",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "gguake",
+    "name": "Optional Name Display",
+    "steamId": "2466336893",
     "version": "1.0.0.0"
   },
   {
@@ -432,6 +480,12 @@
     "version": null
   },
   {
+    "author": "legodude17",
+    "name": "Quality Colors",
+    "steamId": "2420141361",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "sdknm2",
     "name": "Quality Of Building",
     "steamId": "2101676323",
@@ -442,6 +496,12 @@
     "name": "QualityBuilder",
     "steamId": "754637870",
     "version": "1.0.17"
+  },
+  {
+    "author": "Lucifer",
+    "name": "Realistic Rooms Rewritten",
+    "steamId": "2558042766",
+    "version": "1.0.0.0"
   },
   {
     "author": "Uuugggg",
@@ -459,7 +519,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.14.4.0"
+    "version": "1.14.5.0"
   },
   {
     "author": "ruPal",
@@ -504,10 +564,22 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Roolo",
+    "name": "Search and Destroy",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Uuugggg",
     "name": "Share The Load",
     "steamId": "1356838246",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms",
+    "steamId": "927155256",
+    "version": "1.4.6.0"
   },
   {
     "author": "Longman",
@@ -520,6 +592,18 @@
     "name": "Smart Speed",
     "steamId": "1504723424",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "dhultgren",
+    "name": "Smarter Construction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Weilbyte",
+    "name": "Snap Out!",
+    "steamId": "1319782555",
+    "version": "0.8.1"
   },
   {
     "author": "Albion",
@@ -538,6 +622,54 @@
     "name": "Stackable Chunks [1.4+]",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "SmArtKar",
+    "name": "Athena Framework",
+    "steamId": "2903359518",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "kaitorisenkou",
+    "name": "ModularWeapons",
+    "steamId": "2878204522",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "guy762",
+    "name": "Star Wars KotOR Weapons and Armor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "guy762",
+    "name": "Star Wars KotOR Gadgets and Equipment",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "guy762",
+    "name": "Star Wars KotOR Droids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Pyrce",
+    "name": "Terrain Zone Selections",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson and Mr. Sam Streamer",
+    "name": "The Joris Experience",
+    "steamId": "2469797693",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Toggleable Readouts",
+    "steamId": "2661792499",
+    "version": "1.4"
   },
   {
     "author": "nry",
@@ -696,6 +828,12 @@
     "version": "1.0.3"
   },
   {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Nutrient Paste Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Plants Expanded",
     "steamId": null,
@@ -762,16 +900,34 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Revolus",
+    "name": "What's Missing?",
+    "steamId": "2073082747",
+    "version": "2022.10.21.0"
+  },
+  {
     "author": "Epicguru (James B)",
     "name": "What's That Mod",
     "steamId": "2258431182",
     "version": "1.0.0"
   },
   {
+    "author": "民火",
+    "name": "Where is my weapon?",
+    "steamId": "1539028008",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "SirRandoo",
     "name": "Where's My Bed?",
     "steamId": "1919873778",
     "version": "1.2.3.0"
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "[JDS] Simple Storage",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mehni",
@@ -790,6 +946,18 @@
     "name": "Work Tab",
     "steamId": "725219116",
     "version": "3.21.303"
+  },
+  {
+    "author": "sjaak31367",
+    "name": "Zoological Orbital Traders",
+    "steamId": "1952216926",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "sjaak31367",
+    "name": "Zoological Trader Caravans",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Fluffy",
@@ -860,6 +1028,12 @@
   {
     "author": "erdelf (original) & Kiame (support)",
     "name": "[KV] Don't stop the music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] ReColor Stockpile & Growing Zones",
     "steamId": null,
     "version": null
   }

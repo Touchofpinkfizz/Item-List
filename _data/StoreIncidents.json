@@ -222,27 +222,7 @@
 	},
 	{
 		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "sapperraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "siegeraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "mechanoidraid",
-		"price": 2500,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
@@ -431,5 +411,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 86
+	"total": 82
 }

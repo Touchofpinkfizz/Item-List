@@ -84,12 +84,6 @@
     "version": "1.4.8315.17730"
   },
   {
-    "author": "sumghai and Dubwise",
-    "name": "Replimat",
-    "steamId": "1715402900",
-    "version": "1.4.8"
-  },
-  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -120,24 +114,6 @@
     "version": "1.4.0.0"
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Cooking Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "The Pawnmorpher Team",
-    "name": "Pawnmorpher",
-    "steamId": "1786466855",
-    "version": "1.13.0"
-  },
-  {
     "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
     "name": "Vanilla Psycasts Expanded",
     "steamId": "2842502659",
@@ -147,6 +123,12 @@
     "author": "Sarg Bjornson and AFriend",
     "name": "Alpha Animals",
     "steamId": "1541721856",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "Alpha Biomes",
+    "steamId": "1841354677",
     "version": "1.0.0.0"
   },
   {
@@ -162,6 +144,24 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX and erdelf",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  },
+  {
+    "author": "cucumpear and Azrael",
+    "name": "Animal Variety Coats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Simmin",
+    "name": "Animals Forage",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
@@ -172,6 +172,18 @@
     "name": "Animals are fun",
     "steamId": "2108362126",
     "version": "2020.5.30.0"
+  },
+  {
+    "author": "marcin212",
+    "name": "Architect Icons",
+    "steamId": "1195427067",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "SmArtKar",
+    "name": "Athena Framework",
+    "steamId": "2903359518",
+    "version": "0.0.0.0"
   },
   {
     "author": "Razor 2.3",
@@ -195,6 +207,12 @@
     "author": "VouLT",
     "name": "Better Pawn Control",
     "steamId": "1541460369",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Creeper",
+    "name": "BetterInfoCard",
+    "steamId": "2890920739",
     "version": "1.0.0.0"
   },
   {
@@ -222,28 +240,22 @@
     "version": "1.7.5.1"
   },
   {
-    "author": "Orion",
-    "name": "Hospitality",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Killathon",
-    "name": "Mechanical Humanlikes Core",
-    "steamId": "2974524016",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Killathon",
-    "name": "MH: Android Tiers Core",
-    "steamId": "2974536022",
-    "version": "1.0.0.0"
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
   },
   {
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
     "version": "1.0.8624.24517"
+  },
+  {
+    "author": "Aelanna",
+    "name": "Corpse Cleanup",
+    "steamId": "3047191756",
+    "version": "1.0.0.0"
   },
   {
     "author": "Uuugggg",
@@ -280,6 +292,12 @@
     "name": "Door Mat",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Rimatomics",
+    "steamId": "1127530465",
+    "version": "1.7.7368"
   },
   {
     "author": "Kosaro",
@@ -324,6 +342,12 @@
     "version": null
   },
   {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "OskarPotocki, Atlas and Kikohi",
     "name": "Vanilla Furniture Expanded",
     "steamId": null,
@@ -338,8 +362,8 @@
   {
     "author": "Adamas",
     "name": "Hospitality: Spa",
-    "steamId": null,
-    "version": null
+    "steamId": "",
+    "version": "1.0.0.0"
   },
   {
     "author": "Orion",
@@ -402,6 +426,18 @@
     "version": "2.6.0.0"
   },
   {
+    "author": "WexMan",
+    "name": "Mines",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JavaDart",
+    "name": "Magicyte Mining",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "pelador",
     "name": "Medical Supplements (Continued)",
     "steamId": "2195037369",
@@ -420,10 +456,22 @@
     "version": null
   },
   {
+    "author": "StatistNo1, Scorpio, Rebel_Rabbit and Cain",
+    "name": "Mines 2.0",
+    "steamId": "2503894706",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "erdelf",
     "name": "MinifyEverything",
     "steamId": "872762753",
     "version": "1.0.8393.27870"
+  },
+  {
+    "author": "kaitorisenkou",
+    "name": "ModularWeapons",
+    "steamId": "2878204522",
+    "version": "1.0.0.0"
   },
   {
     "author": "Giant Space Hamster",
@@ -436,6 +484,18 @@
     "name": "More Pause Events",
     "steamId": "1874708724",
     "version": "1.6.3.0"
+  },
+  {
+    "author": "Doug",
+    "name": "No Job Authors",
+    "steamId": "2009825774",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Vesper",
+    "name": "Not My Fault",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mehni",
@@ -558,6 +618,12 @@
     "version": null
   },
   {
+    "author": "Roolo and Updated by Ogliss",
+    "name": "RunAndGun",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Neronix17",
     "name": "Seamless Embrasures",
     "steamId": "2290689449",
@@ -574,6 +640,12 @@
     "name": "Share The Load",
     "steamId": "1356838246",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple FX: Vapor",
+    "steamId": "2886571275",
+    "version": "1.4"
   },
   {
     "author": "PeteTimesSix",
@@ -624,36 +696,6 @@
     "version": null
   },
   {
-    "author": "SmArtKar",
-    "name": "Athena Framework",
-    "steamId": "2903359518",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "kaitorisenkou",
-    "name": "ModularWeapons",
-    "steamId": "2878204522",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "guy762",
-    "name": "Star Wars KotOR Weapons and Armor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "guy762",
-    "name": "Star Wars KotOR Gadgets and Equipment",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "guy762",
-    "name": "Star Wars KotOR Droids",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Pyrce",
     "name": "Terrain Zone Selections",
     "steamId": null,
@@ -696,10 +738,22 @@
     "version": null
   },
   {
+    "author": "Owlchemist",
+    "name": "Underground Power Conduits",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, Erin and Sarg Bjornson",
     "name": "Vanilla Animals Expanded — Endangered",
     "steamId": "2366589898",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
@@ -850,12 +904,6 @@
     "name": "Vanilla Social Interactions Expanded",
     "steamId": "2439736083",
     "version": "1.0.0.1"
-  },
-  {
-    "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX and erdelf",
-    "name": "Vanilla Textures Expanded",
-    "steamId": "2016436324",
-    "version": "1.0.0"
   },
   {
     "author": "Oskar Potocki, Taranchuk and Chowder",

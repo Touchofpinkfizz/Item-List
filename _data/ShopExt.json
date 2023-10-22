@@ -53859,6 +53859,50 @@
       },
       "defName": "Hygienic",
       "name": "slob"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Xenophobia",
+      "name": "xenophobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Xenophobia",
+      "name": "xenophile"
     }
   ],
   "races": [
@@ -53883,6 +53927,56 @@
       "enabled": true,
       "name": "human",
       "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1900 Market value",
+          "+7.85 Move speed",
+          "-60.0C [-108.0F] Minimum comfortable temperature",
+          "+26.0C [46.8F] Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+120% Research speed",
+          "+95% Mining speed",
+          "+120.00% Social impact",
+          "+1.3 Melee dodge chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A baseline orassan, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Orassia planets. A mammalian humanoid feline race. Evolving in cold caves and life on space ships make it so they don't mind the dark or being inside for long periods of time.",
+      "defName": "Alien_Orassan",
+      "enabled": true,
+      "name": "orassan",
+      "price": 3167
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1900 Market value",
+          "+6.23 Move speed",
+          "+0.0C [0.0F] Minimum comfortable temperature",
+          "+26.0C [46.8F] Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+110% Research speed",
+          "+98% Mining speed",
+          "+125.00% Social impact",
+          "+1.2 Melee dodge chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A hybrid with DNA from a human and an orassan. Typically created through careful genetic engineering in a lab, or the \"natural\" way from individuals with closely regulated gene mods, these hybrids combine some of the best traits from their parent species. The particular traits and physical characteristics that are being inherited are typically chosen by the parents having the child, but they almost always have two feline ears and a feline tail, both with fur sharing the same color as the hair on their head.",
+      "defName": "Alien_OrassanHumanHybrid",
+      "enabled": true,
+      "name": "neko",
+      "price": 3167
     }
   ]
 }

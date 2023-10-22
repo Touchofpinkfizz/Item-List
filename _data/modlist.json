@@ -78,6 +78,18 @@
     "version": null
   },
   {
+    "author": "dismarzero",
+    "name": "VGP Vegetable Garden",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Drinks",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki and Smash Phil",
     "name": "Vanilla Achievements Expanded",
     "steamId": "2288125657",
@@ -118,18 +130,6 @@
     "name": "Vanilla Psycasts Expanded",
     "steamId": "2842502659",
     "version": "1.1.0.0"
-  },
-  {
-    "author": "Sarg Bjornson and AFriend",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg",
-    "name": "Alpha Biomes",
-    "steamId": "1841354677",
-    "version": "1.0.0.0"
   },
   {
     "author": "Romyashi",
@@ -234,6 +234,18 @@
     "version": "2.6.1.0"
   },
   {
+    "author": "dismarzero",
+    "name": "VGP Garden Gourmet",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Cannibal Meals (VGP required)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Dylan",
     "name": "Children, school and learning",
     "steamId": "1541438230",
@@ -250,6 +262,12 @@
     "name": "Common Sense",
     "steamId": "1561769193",
     "version": "1.0.8624.24517"
+  },
+  {
+    "author": "8Z",
+    "name": "Cook Carefully",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Aelanna",
@@ -306,6 +324,18 @@
     "version": null
   },
   {
+    "author": "Orion",
+    "name": "Cash Register",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Orion",
+    "name": "Gastronomy",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
@@ -342,6 +372,12 @@
     "version": null
   },
   {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Orion",
     "name": "Hospitality",
     "steamId": null,
@@ -364,12 +400,6 @@
     "name": "Hospitality: Spa",
     "steamId": "",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Orion",
-    "name": "Cash Register",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Adamas",
@@ -414,6 +444,12 @@
     "version": null
   },
   {
+    "author": "zhrocks11",
+    "name": "Let's Trade! [1.4+]",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Avius and Hazzer",
     "name": "Locks",
     "steamId": "1157085076",
@@ -434,6 +470,12 @@
   {
     "author": "JavaDart",
     "name": "Magicyte Mining",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "leafzxg",
+    "name": "Master of Cooking",
     "steamId": null,
     "version": null
   },
@@ -466,6 +508,12 @@
     "name": "MinifyEverything",
     "steamId": "872762753",
     "version": "1.0.8393.27870"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Training",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "kaitorisenkou",
@@ -514,6 +562,12 @@
     "name": "Optional Name Display",
     "steamId": "2466336893",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Diana(Kitty)",
+    "name": "Orassans",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Peppsen",
@@ -594,6 +648,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, xrushha and SmashPhil",
+    "name": "Vanilla Apparel Expanded — Accessories",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, Trunken and Sarg Bjornson",
     "name": "Vanilla Armour Expanded",
     "steamId": null,
@@ -654,6 +714,18 @@
     "version": "1.4.6.0"
   },
   {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Saximaphone and TrahsPanda",
+    "name": "SkettiMod - Unofficial Vanilla Cooking Expanded Addon",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Longman",
     "name": "Smaller radius for Anima Trees, Shrines and Animus Stones",
     "steamId": null,
@@ -684,6 +756,12 @@
     "version": "2.6.0"
   },
   {
+    "author": "iwishforducks",
+    "name": "Specialists Can Work!",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Linkolas",
     "name": "Stabilize",
     "steamId": null,
@@ -700,12 +778,6 @@
     "name": "Terrain Zone Selections",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Sarg Bjornson and Mr. Sam Streamer",
-    "name": "The Joris Experience",
-    "steamId": "2469797693",
-    "version": "1.0.0.0"
   },
   {
     "author": "Owlchemist",
@@ -744,16 +816,94 @@
     "version": null
   },
   {
+    "author": "dhultgren",
+    "name": "Use Minified Buildings",
+    "steamId": "2185809028",
+    "version": "1.4.1.0"
+  },
+  {
+    "author": "Luneyl",
+    "name": "VGP Bamboo (Standalone)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Canning",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Dyes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Dyes Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Fabrics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Medicine",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Resources",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Maaxar",
+    "name": "VGP Garden Resources (Medieval Tech Patch)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Tools",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP More Veggies",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JuliaEllie  dismar  PhileasFogg",
+    "name": "VGP Soylent Production",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Three Sisters Plants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Xtra Trees and Flowers",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, Erin and Sarg Bjornson",
     "name": "Vanilla Animals Expanded — Endangered",
     "steamId": "2366589898",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Cooking Expanded",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
@@ -896,6 +1046,24 @@
   {
     "author": "Oskar Potocki and Alestria",
     "name": "Vanilla Plants Expanded - Succulents",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Archoran",
+    "name": "Vanilla Plants Expanded - Auto Plow Patch",
+    "steamId": "2497914485",
+    "version": "1.2.1.0"
+  },
+  {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Plants Expanded - More Plants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Taranchuk, Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Plants Expanded - Mushrooms",
     "steamId": null,
     "version": null
   },

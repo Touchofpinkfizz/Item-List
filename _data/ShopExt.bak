@@ -778,7 +778,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has a fantastic memory for detail. he will learn new skills slightly faster than other people.",
+      "description": "Timmy has a fantastic memory for detail. he will lose unused skills at half the rate of other people.",
       "stats": [
         "+25% global learning factor"
       ],
@@ -1791,128 +1791,6 @@
       },
       "defName": "Recluse",
       "name": "recluse"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Xenophobia",
-      "name": "xenophobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Xenophobia",
-      "name": "xenophile"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is now a natural hunter.",
-      "stats": [
-        "+1 shooting",
-        "+1 animals"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+1 shooting",
-          "+1 animals"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Pawnmorpher",
-        "karmaTypeForAdding": null
-      },
-      "defName": "NaturalHunter",
-      "name": "naturalhunter"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is intrigued by the idea of becoming something other than human.",
-      "stats": [],
-      "conflicts": [
-        "bodymodder",
-        "bodypurist"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "bodymodder",
-          "bodypurist"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Pawnmorpher",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MutationAffinity",
-      "name": "mutationaffinity"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy's sees himself as the natural leader of his pride and as a consequence looks down on others and is easily offended.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Pawnmorpher",
-        "karmaTypeForAdding": null
-      },
-      "defName": "PM_PridefulTrait",
-      "name": "prideful"
     },
     {
       "canAdd": true,
@@ -52377,20 +52255,12 @@
         "x50% global certainty loss factor"
       ],
       "conflicts": [
-        "workaholic",
-        "industrious",
-        "hardworker",
-        "lazy",
-        "slothful"
+        "workaholic"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "workaholic",
-          "industrious",
-          "hardworker",
-          "lazy",
-          "slothful"
+          "workaholic"
         ],
         "stats": [
           "x50% global certainty loss factor"
@@ -52415,12 +52285,12 @@
         "x115% research speed"
       ],
       "conflicts": [
-        "dunce"
+        "slowlearner"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "dunce"
+          "slowlearner"
         ],
         "stats": [
           "x115% research speed"
@@ -52469,16 +52339,16 @@
       "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and he will try to hide or run as a first priority.",
       "stats": [],
       "conflicts": [
-        "brawler",
         "brave",
-        "bloodlust"
+        "bloodlust",
+        "brawler"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "brawler",
           "brave",
-          "bloodlust"
+          "bloodlust",
+          "brawler"
         ],
         "stats": [],
         "canBypassLimit": false,
@@ -52499,21 +52369,31 @@
       "description": "Timmy has a higher mental and physical fortitude compared to most and can more readily adapt to harsh environments in the rimworlds.",
       "stats": [
         "-20% mental break threshold",
-        "+20% pain shock threshold"
+        "+20% pain shock threshold",
+        "x25% global certainty loss factor"
       ],
       "conflicts": [
-        "wimp",
-        "coward"
+        "coward",
+        "iron-willed",
+        "steadfast",
+        "nervous",
+        "volatile",
+        "wimp"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "wimp",
-          "coward"
+          "coward",
+          "iron-willed",
+          "steadfast",
+          "nervous",
+          "volatile",
+          "wimp"
         ],
         "stats": [
           "-20% mental break threshold",
-          "+20% pain shock threshold"
+          "+20% pain shock threshold",
+          "x25% global certainty loss factor"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -52560,14 +52440,10 @@
       "stats": [
         "+10.0C [18.0F] Maximum comfortable temperature"
       ],
-      "conflicts": [
-        "coldinclined"
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
-        "conflicts": [
-          "coldinclined"
-        ],
+        "conflicts": [],
         "stats": [
           "+10.0C [18.0F] Maximum comfortable temperature"
         ],
@@ -52590,14 +52466,10 @@
       "stats": [
         "-10.0C [-18.0F] Minimum comfortable temperature"
       ],
-      "conflicts": [
-        "heatinclined"
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
-        "conflicts": [
-          "heatinclined"
-        ],
+        "conflicts": [],
         "stats": [
           "-10.0C [-18.0F] Minimum comfortable temperature"
         ],
@@ -52693,20 +52565,12 @@
       "description": "Timmy has problems taking breaks or resting mid job. he will continue to work even sacrificing their health or sleep.",
       "stats": [],
       "conflicts": [
-        "absent-minded",
-        "industrious",
-        "hardworker",
-        "lazy",
-        "slothful"
+        "absent-minded"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "absent-minded",
-          "industrious",
-          "hardworker",
-          "lazy",
-          "slothful"
+          "absent-minded"
         ],
         "stats": [],
         "canBypassLimit": false,
@@ -52780,12 +52644,16 @@
       "stats": [],
       "conflicts": [
         "animallover",
+        "catperson",
+        "dogperson",
         "menagerist"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
           "animallover",
+          "catperson",
+          "dogperson",
           "menagerist"
         ],
         "stats": [],
@@ -52975,25 +52843,31 @@
       "description": "Timmy has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally.",
       "stats": [
         "-50% global learning factor",
-        "-50.00% social impact"
+        "-50.00% social impact",
+        "x300% global certainty loss factor"
       ],
       "conflicts": [
-        "fastlearner",
-        "toosmart",
+        "academian",
         "eccentric",
-        "prodigy"
+        "prodigy",
+        "tycoon",
+        "fastlearner",
+        "toosmart"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "fastlearner",
-          "toosmart",
+          "academian",
           "eccentric",
-          "prodigy"
+          "prodigy",
+          "tycoon",
+          "fastlearner",
+          "toosmart"
         ],
         "stats": [
           "-50% global learning factor",
-          "-50.00% social impact"
+          "-50.00% social impact",
+          "x300% global certainty loss factor"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -53061,14 +52935,16 @@
       "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for him.",
       "stats": [],
       "conflicts": [
+        "desensitized",
         "ironstomach",
-        "desensitized"
+        "bloodlust"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
+          "desensitized",
           "ironstomach",
-          "desensitized"
+          "bloodlust"
         ],
         "stats": [],
         "canBypassLimit": false,
@@ -53088,7 +52964,8 @@
       "degree": 0,
       "description": "Timmy feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe.",
       "stats": [
-        "Only mental break \"VTE_PanicFreezing\" allowed."
+        "Only mental break \"VTE_PanicFreezing\" allowed.",
+        "x200% global certainty loss factor"
       ],
       "conflicts": [
         "fun-loving"
@@ -53099,7 +52976,8 @@
           "fun-loving"
         ],
         "stats": [
-          "Only mental break \"VTE_PanicFreezing\" allowed."
+          "Only mental break \"VTE_PanicFreezing\" allowed.",
+          "x200% global certainty loss factor"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -53122,15 +53000,13 @@
       ],
       "conflicts": [
         "prude",
-        "asexual",
-        "nudist"
+        "asexual"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
           "prude",
-          "asexual",
-          "nudist"
+          "asexual"
         ],
         "stats": [
           "x200% global certainty loss factor"
@@ -53262,12 +53138,12 @@
         "x130% research speed"
       ],
       "conflicts": [
-        "dunce"
+        "slowlearner"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "dunce"
+          "slowlearner"
         ],
         "stats": [
           "+20% mental break threshold",
@@ -53416,7 +53292,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is compulsed to steal and take things that don't belong to them, even if it means angering the other party.",
+      "description": "Timmy is compulsive to steal and take things that don't belong to them, even if it means angering the other party.",
       "stats": [
         "Only mental break \"VTE_Kleptomaniac\" allowed."
       ],
@@ -53447,16 +53323,14 @@
       "conflicts": [
         "chemicalfascination",
         "chemicalinterest",
-        "teetotaler",
-        "lush"
+        "teetotaler"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
           "chemicalfascination",
           "chemicalinterest",
-          "teetotaler",
-          "lush"
+          "teetotaler"
         ],
         "stats": [],
         "canBypassLimit": false,
@@ -53479,16 +53353,14 @@
       "conflicts": [
         "chemicalfascination",
         "chemicalinterest",
-        "teetotaler",
-        "lush"
+        "teetotaler"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
           "chemicalfascination",
           "chemicalinterest",
-          "teetotaler",
-          "lush"
+          "teetotaler"
         ],
         "stats": [],
         "canBypassLimit": false,
@@ -53539,7 +53411,8 @@
       "description": "Timmy is never really asleep or awake. he is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so.",
       "stats": [
         "x50% global work speed",
-        "x70% move speed"
+        "x70% move speed",
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
         "heavysleeper"
@@ -53551,7 +53424,8 @@
         ],
         "stats": [
           "x50% global work speed",
-          "x70% move speed"
+          "x70% move speed",
+          "x50% global certainty loss factor"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -53656,10 +53530,14 @@
         "+4 medical",
         "+20% medical tend quality"
       ],
-      "conflicts": [],
+      "conflicts": [
+        "slowlearner"
+      ],
       "bypassLimit": false,
       "data": {
-        "conflicts": [],
+        "conflicts": [
+          "slowlearner"
+        ],
         "stats": [
           "+4 intellectual",
           "+4 medical",
@@ -53858,20 +53736,10 @@
       "degree": 0,
       "description": "Timmy has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown.",
       "stats": [],
-      "conflicts": [
-        "iron-willed",
-        "steadfast",
-        "nervous",
-        "volatile"
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
-        "conflicts": [
-          "iron-willed",
-          "steadfast",
-          "nervous",
-          "volatile"
-        ],
+        "conflicts": [],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
@@ -53881,6 +53749,160 @@
       },
       "defName": "VTE_Schizoid",
       "name": "schizoid"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Psycasts Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VPE_Thrall",
+      "name": "thrall"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "germaphobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy is very hygienic and will wash more frequently.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "hygienic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy is very unhygienic and will wash less frequently.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "unhygienic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2,
+      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "slob"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Xenophobia",
+      "name": "xenophobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Xenophobia",
+      "name": "xenophile"
     }
   ],
   "races": [
@@ -53892,8 +53914,8 @@
           "+70% Flammability",
           "+$1750 Market value",
           "+4.60 Move speed",
-          "+16.0C [28.8F] Minimum comfortable temperature",
-          "+26.0C [46.8F] Maximum comfortable temperature",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
           "+75 Leather amount",
           "+3 Honor value"
         ],
@@ -53905,6 +53927,56 @@
       "enabled": true,
       "name": "human",
       "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1900 Market value",
+          "+7.85 Move speed",
+          "-60.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+120% Research speed",
+          "+95% Mining speed",
+          "+120.00% Social impact",
+          "+1.3 Melee dodge chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A baseline orassan, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Orassia planets. A mammalian humanoid feline race. Evolving in cold caves and life on space ships make it so they don't mind the dark or being inside for long periods of time.",
+      "defName": "Alien_Orassan",
+      "enabled": true,
+      "name": "orassan",
+      "price": 3167
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1900 Market value",
+          "+6.23 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+110% Research speed",
+          "+98% Mining speed",
+          "+125.00% Social impact",
+          "+1.2 Melee dodge chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A hybrid with DNA from a human and an orassan. Typically created through careful genetic engineering in a lab, or the \"natural\" way from individuals with closely regulated gene mods, these hybrids combine some of the best traits from their parent species. The particular traits and physical characteristics that are being inherited are typically chosen by the parents having the child, but they almost always have two feline ears and a feline tail, both with fur sharing the same color as the hair on their head.",
+      "defName": "Alien_OrassanHumanHybrid",
+      "enabled": true,
+      "name": "neko",
+      "price": 3167
     }
   ]
 }

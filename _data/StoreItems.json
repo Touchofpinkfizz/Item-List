@@ -13981,12 +13981,6 @@
 		"defname": "GeothermHeater"
 	},
 	{
-		"abr": "granitechunk",
-		"price": 4,
-		"category": "Stone chunks",
-		"defname": "ChunkGranite"
-	},
-	{
 		"abr": "hel",
 		"price": 1083,
 		"category": "",
@@ -14065,12 +14059,6 @@
 		"defname": "MissileSilo"
 	},
 	{
-		"abr": "limestonechunk",
-		"price": 4,
-		"category": "Stone chunks",
-		"defname": "ChunkLimestone"
-	},
-	{
 		"abr": "litterbox",
 		"price": 52,
 		"category": "Hygiene",
@@ -14087,12 +14075,6 @@
 		"price": 2783,
 		"category": "",
 		"defname": "PPCMarauder"
-	},
-	{
-		"abr": "marblechunk",
-		"price": 4,
-		"category": "Stone chunks",
-		"defname": "ChunkMarble"
 	},
 	{
 		"abr": "meps",
@@ -14887,12 +14869,6 @@
 		"defname": "PPCWeaponsConsole"
 	},
 	{
-		"abr": "sandstonechunk",
-		"price": 4,
-		"category": "Stone chunks",
-		"defname": "ChunkSandstone"
-	},
-	{
 		"abr": "sarcophagustypea",
 		"price": 1167,
 		"category": "",
@@ -15020,7 +14996,7 @@
 	},
 	{
 		"abr": "arcticcaemur",
-		"price": 917,
+		"price": 918,
 		"category": "Animals",
 		"defname": "Ori"
 	},
@@ -15560,7 +15536,7 @@
 	},
 	{
 		"abr": "chickpeas",
-		"price": 0,
+		"price": -10,
 		"category": "Vegetarian",
 		"defname": "VCE_RawChickpeas"
 	},
@@ -16190,7 +16166,7 @@
 	},
 	{
 		"abr": "invisiblefence",
-		"price": 0,
+		"price": -10,
 		"category": "",
 		"defname": "VFEArch_InvisibleFence"
 	},
@@ -16478,7 +16454,7 @@
 	},
 	{
 		"abr": "neko",
-		"price": 3167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_OrassanHumanHybrid"
 	},
@@ -16598,7 +16574,7 @@
 	},
 	{
 		"abr": "orassan",
-		"price": 3167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Orassan"
 	},
@@ -18990,6 +18966,1308 @@
 		"category": "Utility",
 		"defname": "VAEA_Apparel_RessurectorBelt"
 	},
+	{
+		"abr": "archerytarget",
+		"price": 41,
+		"category": "Recreation",
+		"defname": "VFEM_ArcheryTarget"
+	},
+	{
+		"abr": "candle",
+		"price": 1,
+		"category": "Furniture",
+		"defname": "VFEM_Candle"
+	},
+	{
+		"abr": "damedress",
+		"price": 259,
+		"category": "Apparel",
+		"defname": "VFEM_Apparel_DameDress"
+	},
+	{
+		"abr": "damehat",
+		"price": 127,
+		"category": "Headgear",
+		"defname": "VFEM_Apparel_DameHat"
+	},
+	{
+		"abr": "darkcandle",
+		"price": 1,
+		"category": "Furniture",
+		"defname": "VFEM_DarkCandle"
+	},
+	{
+		"abr": "grapemust",
+		"price": 4,
+		"category": "Manufactured",
+		"defname": "VFEM_Must"
+	},
+	{
+		"abr": "grapes",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VFEM_RawGrapes"
+	},
+	{
+		"abr": "heatershield",
+		"price": 367,
+		"category": "Shields",
+		"defname": "VFEM_Shield_Heater"
+	},
+	{
+		"abr": "heavycrossbow",
+		"price": 417,
+		"category": "Ranged weapons",
+		"defname": "VFEM_Bow_HeavyCrossbow"
+	},
+	{
+		"abr": "heavymace",
+		"price": 289,
+		"category": "Melee weapons",
+		"defname": "VFEM_MeleeWeapon_HeavyMace"
+	},
+	{
+		"abr": "heavyplatearmor",
+		"price": 1158,
+		"category": "Armor",
+		"defname": "VFEM_Apparel_PlateArmorHeavy"
+	},
+	{
+		"abr": "heavyplatehelmet",
+		"price": 305,
+		"category": "Headgear",
+		"defname": "VFEM_Apparel_PlateHelmetHeavy"
+	},
+	{
+		"abr": "jesterhat",
+		"price": 111,
+		"category": "Headgear",
+		"defname": "VFEM_Apparel_JesterHat"
+	},
+	{
+		"abr": "jesteroutfit",
+		"price": 179,
+		"category": "Apparel",
+		"defname": "VFEM_Apparel_JesterOutfit"
+	},
+	{
+		"abr": "king’srobes",
+		"price": 297,
+		"category": "Apparel",
+		"defname": "VFEM_Apparel_KingsRobes"
+	},
+	{
+		"abr": "king'scrown",
+		"price": 260,
+		"category": "Headgear",
+		"defname": "VFEM_Apparel_KingsCrown"
+	},
+	{
+		"abr": "kiteshield",
+		"price": 241,
+		"category": "Shields",
+		"defname": "VFEM_Shield_Kite"
+	},
+	{
+		"abr": "lightplatehelmet",
+		"price": 153,
+		"category": "Headgear",
+		"defname": "VFEM_Apparel_PlateHelmetLight"
+	},
+	{
+		"abr": "plaguemask",
+		"price": 163,
+		"category": "Headgear",
+		"defname": "VFEM_Apparel_PlagueMask"
+	},
+	{
+		"abr": "rimforestercherrywater",
+		"price": 27,
+		"category": "Drugs",
+		"defname": "CPD_Cherrywater"
+	},
+	{
+		"abr": "rockpowder",
+		"price": 1,
+		"category": "Raw resources",
+		"defname": "RockPowder"
+	},
+	{
+		"abr": "rodentparagon",
+		"price": 200,
+		"category": "Animals",
+		"defname": "GR_ParagonRat"
+	},
+	{
+		"abr": "rodent/leporidgenome",
+		"price": 17,
+		"category": "Genetic materials (tier 1)",
+		"defname": "GR_RodentGenetic"
+	},
+	{
+		"abr": "rum",
+		"price": 37,
+		"category": "Drugs",
+		"defname": "rum"
+	},
+	{
+		"abr": "sake",
+		"price": 32,
+		"category": "Drugs",
+		"defname": "saki"
+	},
+	{
+		"abr": "salt",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "ChunkSalt"
+	},
+	{
+		"abr": "saltedhumanmeat",
+		"price": 8,
+		"category": "Meat",
+		"defname": "CAN_SaltedMeat"
+	},
+	{
+		"abr": "saltedmeat",
+		"price": 8,
+		"category": "Garden meat",
+		"defname": "SaltedMeat"
+	},
+	{
+		"abr": "saunaseating",
+		"price": 9,
+		"category": "Furniture",
+		"defname": "DBHSaunaSeating"
+	},
+	{
+		"abr": "scad",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "SCAD"
+	},
+	{
+		"abr": "selfdestructmodule",
+		"price": 417,
+		"category": "Manufactured",
+		"defname": "WTH_SelfDestructModule"
+	},
+	{
+		"abr": "sevillemanzanilloolives",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawOlives"
+	},
+	{
+		"abr": "shootingtarget",
+		"price": 325,
+		"category": "Recreation",
+		"defname": "ShootingRangeTarget"
+	},
+	{
+		"abr": "shower",
+		"price": 90,
+		"category": "Hygiene",
+		"defname": "ShowerStuff"
+	},
+	{
+		"abr": "silage",
+		"price": 2,
+		"category": "Animal Feed",
+		"defname": "Silage"
+	},
+	{
+		"abr": "silverflowerpetals",
+		"price": -10,
+		"category": "Resource plants",
+		"defname": "RawSilverLeaf"
+	},
+	{
+		"abr": "simpleshower",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "ShowerSimple"
+	},
+	{
+		"abr": "skeleton",
+		"price": 250,
+		"category": "Animals",
+		"defname": "VPE_SummonedSkeleton"
+	},
+	{
+		"abr": "smallceilingsunlamp",
+		"price": 81,
+		"category": "Furniture",
+		"defname": "SmallCeilingSunLamp"
+	},
+	{
+		"abr": "smallceilngheatedsunlamp",
+		"price": 433,
+		"category": "Furniture",
+		"defname": "HeatedceilngSmallSunLamp"
+	},
+	{
+		"abr": "smallheatedsunlamp",
+		"price": 433,
+		"category": "Furniture",
+		"defname": "HeatedSmallSunLamp"
+	},
+	{
+		"abr": "smallsunlamp",
+		"price": 81,
+		"category": "Furniture",
+		"defname": "SmallSunLamp"
+	},
+	{
+		"abr": "smarttoilet",
+		"price": 182,
+		"category": "Hygiene",
+		"defname": "ToiletAdvStuff"
+	},
+	{
+		"abr": "smokedfish",
+		"price": -10,
+		"category": "Raw fish",
+		"defname": "VFEM_SmokedFish"
+	},
+	{
+		"abr": "smokedmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "VFEM_SmokedMeat"
+	},
+	{
+		"abr": "smoothie",
+		"price": 42,
+		"category": "Sweets",
+		"defname": "smoothie"
+	},
+	{
+		"abr": "snakecat",
+		"price": 667,
+		"category": "Animals",
+		"defname": "GR_Snakecat"
+	},
+	{
+		"abr": "snowbeet",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "Rawsnowbeet"
+	},
+	{
+		"abr": "sodatable",
+		"price": 302,
+		"category": "Production",
+		"defname": "CPD_DrinksTable"
+	},
+	{
+		"abr": "soylentblue",
+		"price": 2,
+		"category": "Meat",
+		"defname": "soylentblue"
+	},
+	{
+		"abr": "soylentgreen",
+		"price": 2,
+		"category": "Meat",
+		"defname": "soylentgreen"
+	},
+	{
+		"abr": "soylentpurple",
+		"price": 2,
+		"category": "Meat",
+		"defname": "soylentpurple"
+	},
+	{
+		"abr": "soylentred",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "soylentred"
+	},
+	{
+		"abr": "soylentyellow",
+		"price": 2,
+		"category": "Animal products",
+		"defname": "soylentyellow"
+	},
+	{
+		"abr": "spaghetti",
+		"price": 50,
+		"category": "Meals",
+		"defname": "SAX_MealSketti"
+	},
+	{
+		"abr": "speedmodule",
+		"price": 750,
+		"category": "Manufactured",
+		"defname": "WTH_SpeedModule"
+	},
+	{
+		"abr": "spidercat",
+		"price": 667,
+		"category": "Animals",
+		"defname": "GR_Spidercat"
+	},
+	{
+		"abr": "spiderhorse",
+		"price": 1417,
+		"category": "Animals",
+		"defname": "GR_Spiderhorse"
+	},
+	{
+		"abr": "spidersnake",
+		"price": 1083,
+		"category": "Animals",
+		"defname": "GR_Spidersnake"
+	},
+	{
+		"abr": "squash",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "Rawsquash"
+	},
+	{
+		"abr": "squirralope",
+		"price": 208,
+		"category": "Animals",
+		"defname": "GR_Squirralope"
+	},
+	{
+		"abr": "stabilizator",
+		"price": 53,
+		"category": "Boosters",
+		"defname": "GR_BoosterStabilizator"
+	},
+	{
+		"abr": "stabilizedfertilityunblocker",
+		"price": 83,
+		"category": "Boosters",
+		"defname": "GR_StabilizedFertilityUnblocker"
+	},
+	{
+		"abr": "steelconstruct",
+		"price": 250,
+		"category": "Animals",
+		"defname": "VPE_SteelConstruct"
+	},
+	{
+		"abr": "steelshrooms",
+		"price": 1,
+		"category": "Resource plants",
+		"defname": "RawSteelLeaf"
+	},
+	{
+		"abr": "stirfry",
+		"price": 42,
+		"category": "Meals",
+		"defname": "stirfry"
+	},
+	{
+		"abr": "sugarcane",
+		"price": 3,
+		"category": "Ingredients",
+		"defname": "Rawsugarcane"
+	},
+	{
+		"abr": "sunlampcolumn",
+		"price": 195,
+		"category": "Furniture",
+		"defname": "SunlampColumn"
+	},
+	{
+		"abr": "sunlampcolumnao",
+		"price": 195,
+		"category": "Furniture",
+		"defname": "SunlampColumnAO"
+	},
+	{
+		"abr": "sunflowerseeds",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawSunflower"
+	},
+	{
+		"abr": "sweetbun",
+		"price": 42,
+		"category": "Simple Meals",
+		"defname": "sweetbun"
+	},
+	{
+		"abr": "sweetpotatoes",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawSweetPotatoes"
+	},
+	{
+		"abr": "sweetstable",
+		"price": 217,
+		"category": "Production",
+		"defname": "CandyTable"
+	},
+	{
+		"abr": "synchronisitypowder",
+		"price": 35,
+		"category": "Drugs",
+		"defname": "Synchronisity"
+	},
+	{
+		"abr": "synthamiderefiner",
+		"price": 1167,
+		"category": "Oil",
+		"defname": "SynthamideRefiner"
+	},
+	{
+		"abr": "synthreadrefiner",
+		"price": 808,
+		"category": "Oil",
+		"defname": "SynthreadRefiner"
+	},
+	{
+		"abr": "synthylenerefiner",
+		"price": 758,
+		"category": "Oil",
+		"defname": "SynthyleneRefiner"
+	},
+	{
+		"abr": "syrup",
+		"price": 13,
+		"category": "Garden soda",
+		"defname": "CPD_Syrup"
+	},
+	{
+		"abr": "tabard",
+		"price": 211,
+		"category": "Apparel",
+		"defname": "VFEM_Apparel_Tabard"
+	},
+	{
+		"abr": "tacos",
+		"price": 25,
+		"category": "Lavish Meals",
+		"defname": "Tacos"
+	},
+	{
+		"abr": "taffy",
+		"price": 42,
+		"category": "Sweets",
+		"defname": "Taffy"
+	},
+	{
+		"abr": "tailor'sloom",
+		"price": 277,
+		"category": "Production",
+		"defname": "TableLoom"
+	},
+	{
+		"abr": "targetingchip",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "TargetingChip"
+	},
+	{
+		"abr": "taroroots",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawTaro"
+	},
+	{
+		"abr": "tealeaves",
+		"price": 3,
+		"category": "Plant matter",
+		"defname": "Rawtea"
+	},
+	{
+		"abr": "tealcloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "TealCloth"
+	},
+	{
+		"abr": "tealdevilstrand",
+		"price": 9,
+		"category": "Dyed Devilstrand",
+		"defname": "TealDevilstrand"
+	},
+	{
+		"abr": "tealhyperweave",
+		"price": 15,
+		"category": "Dyed Hyperweave",
+		"defname": "TealHyperweave"
+	},
+	{
+		"abr": "tealsynthread",
+		"price": 7,
+		"category": "Dyed Synthread",
+		"defname": "TealSynthread"
+	},
+	{
+		"abr": "temperatecaemur",
+		"price": 917,
+		"category": "Animals",
+		"defname": "Ori_Temperate"
+	},
+	{
+		"abr": "temperatedesiri",
+		"price": 333,
+		"category": "Animals",
+		"defname": "Animal_Desiri_TemperateOne"
+	},
+	{
+		"abr": "temperatedesiri",
+		"price": 333,
+		"category": "Animals",
+		"defname": "Animal_Desiri_TemperateTwo"
+	},
+	{
+		"abr": "temperategryphon",
+		"price": 267,
+		"category": "Animals",
+		"defname": "Temperate_Gryphon"
+	},
+	{
+		"abr": "temperategryphonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Temperate_Gryphon"
+	},
+	{
+		"abr": "templategenome",
+		"price": 667,
+		"category": "Genetic materials (tier 1)",
+		"defname": "GR_TemplateGenetic"
+	},
+	{
+		"abr": "tempobooster",
+		"price": 30,
+		"category": "Boosters",
+		"defname": "GR_BoosterTempo"
+	},
+	{
+		"abr": "tequila",
+		"price": 40,
+		"category": "Drugs",
+		"defname": "tequila"
+	},
+	{
+		"abr": "thermostat",
+		"price": 86,
+		"category": "Hygiene",
+		"defname": "Thermostat"
+	},
+	{
+		"abr": "thickhybridwool",
+		"price": 4,
+		"category": "Wools",
+		"defname": "GR_ThickHybridWool"
+	},
+	{
+		"abr": "thinhybridwool",
+		"price": 4,
+		"category": "Wools",
+		"defname": "GR_ThinHybridWool"
+	},
+	{
+		"abr": "thrumbalope",
+		"price": 5000,
+		"category": "Animals",
+		"defname": "GR_Thrumbalope"
+	},
+	{
+		"abr": "thrumbear",
+		"price": 7500,
+		"category": "Animals",
+		"defname": "GR_Thrumbear"
+	},
+	{
+		"abr": "thrumbocat",
+		"price": 2917,
+		"category": "Animals",
+		"defname": "GR_Thrumbocat"
+	},
+	{
+		"abr": "thrumbochicken",
+		"price": 5000,
+		"category": "Animals",
+		"defname": "GR_Thrumbochicken"
+	},
+	{
+		"abr": "thrumbochickenegg(fert.)",
+		"price": 42,
+		"category": "Eggs (fert.)",
+		"defname": "GR_ThrumbochickenEggFertilized"
+	},
+	{
+		"abr": "thrumbochickenegg(unfert.)",
+		"price": 42,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_ThrumbochickenEggUnfertilized"
+	},
+	{
+		"abr": "thrumbolizard",
+		"price": 7500,
+		"category": "Animals",
+		"defname": "GR_Thrumbolizard"
+	},
+	{
+		"abr": "thrumboman",
+		"price": 6667,
+		"category": "Animals",
+		"defname": "GR_Thrumboman"
+	},
+	{
+		"abr": "thrumborat",
+		"price": 4000,
+		"category": "Animals",
+		"defname": "GR_Thrumborat"
+	},
+	{
+		"abr": "thrumbospider",
+		"price": 4167,
+		"category": "Animals",
+		"defname": "GR_Thrumbospider"
+	},
+	{
+		"abr": "thrumffalo",
+		"price": 5833,
+		"category": "Animals",
+		"defname": "GR_Thrumffalo"
+	},
+	{
+		"abr": "thrumffalogouda",
+		"price": 25,
+		"category": "Meals",
+		"defname": "VCE_ThrumffaloGouda"
+	},
+	{
+		"abr": "thrumffalomilk",
+		"price": 10,
+		"category": "Animal products",
+		"defname": "GR_ThrumffaloMilk"
+	},
+	{
+		"abr": "thrumhorse",
+		"price": 7500,
+		"category": "Animals",
+		"defname": "GR_Thrumhorse"
+	},
+	{
+		"abr": "thrumwolf",
+		"price": 4167,
+		"category": "Animals",
+		"defname": "GR_Thrumwolf"
+	},
+	{
+		"abr": "tissuegrinder",
+		"price": 517,
+		"category": "Production",
+		"defname": "GR_TissueGrinder"
+	},
+	{
+		"abr": "tobacco",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "RawTobacco"
+	},
+	{
+		"abr": "tofu",
+		"price": 23,
+		"category": "Meat",
+		"defname": "Rawtofu"
+	},
+	{
+		"abr": "toilet",
+		"price": 72,
+		"category": "Hygiene",
+		"defname": "ToiletStuff"
+	},
+	{
+		"abr": "tomatoes",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawTomatoes"
+	},
+	{
+		"abr": "toolbelt",
+		"price": 166,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_ToolBelt"
+	},
+	{
+		"abr": "towelrail",
+		"price": 85,
+		"category": "Hygiene",
+		"defname": "RadiatorTowelRail"
+	},
+	{
+		"abr": "turbineblades",
+		"price": 2,
+		"category": "Rimatomics Product",
+		"defname": "turbineBlade"
+	},
+	{
+		"abr": "turkeyman",
+		"price": 250,
+		"category": "Animals",
+		"defname": "GR_Turkeyman"
+	},
+	{
+		"abr": "turkeymanegg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "GR_TurkeymanEggFertilized"
+	},
+	{
+		"abr": "turkeymanegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_TurkeymanEggUnfertilized"
+	},
+	{
+		"abr": "turretmodule",
+		"price": 1500,
+		"category": "Manufactured",
+		"defname": "WTH_TurretModule"
+	},
+	{
+		"abr": "uncuredplasteel",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "UncuredPlasteel"
+	},
+	{
+		"abr": "uncuredsynthamidecomposite",
+		"price": 3,
+		"category": "Synthamide",
+		"defname": "UncuredComposite"
+	},
+	{
+		"abr": "unrefinedsynchronisity",
+		"price": 5,
+		"category": "Medicine",
+		"defname": "Synchronite"
+	},
+	{
+		"abr": "uraniumpellets",
+		"price": 3,
+		"category": "Rimatomics Product",
+		"defname": "UraniumPellets"
+	},
+	{
+		"abr": "uraniumrootbulbs",
+		"price": 2,
+		"category": "Resource plants",
+		"defname": "RawUraniumLeaf"
+	},
+	{
+		"abr": "urbancaemur",
+		"price": 917,
+		"category": "Animals",
+		"defname": "Ori_Urban"
+	},
+	{
+		"abr": "urbandesiri",
+		"price": 333,
+		"category": "Animals",
+		"defname": "Animal_Desiri_Urban"
+	},
+	{
+		"abr": "urbangryphon",
+		"price": 267,
+		"category": "Animals",
+		"defname": "Urban_Gryphon"
+	},
+	{
+		"abr": "urbangryphonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Urban_Gryphon"
+	},
+	{
+		"abr": "ursinegenome",
+		"price": 17,
+		"category": "Genetic materials (tier 1)",
+		"defname": "GR_UrsineGenetic"
+	},
+	{
+		"abr": "ursineparagon",
+		"price": 1833,
+		"category": "Animals",
+		"defname": "GR_ParagonBear"
+	},
+	{
+		"abr": "vanometricpowercellmodule",
+		"price": 2875,
+		"category": "Manufactured",
+		"defname": "WTH_VanometricModule"
+	},
+	{
+		"abr": "veganeggsubstitute",
+		"price": 3,
+		"category": "Eggs (unfert.)",
+		"defname": "VeganEgg"
+	},
+	{
+		"abr": "vegetablemilkextractor",
+		"price": 296,
+		"category": "Production",
+		"defname": "VCE_VegMilkExtractor"
+	},
+	{
+		"abr": "violetcloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "VioletCloth"
+	},
+	{
+		"abr": "vodka",
+		"price": 27,
+		"category": "Drugs",
+		"defname": "CPD_Vodka"
+	},
+	{
+		"abr": "walk-infreezerunit",
+		"price": 153,
+		"category": "Hygiene",
+		"defname": "FreezerUnit"
+	},
+	{
+		"abr": "washingmachine",
+		"price": 433,
+		"category": "Hygiene",
+		"defname": "WashingMachine"
+	},
+	{
+		"abr": "waterbowl",
+		"price": 51,
+		"category": "Hygiene",
+		"defname": "PetWaterBowl"
+	},
+	{
+		"abr": "waterchestnuts",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawWaterChestnut"
+	},
+	{
+		"abr": "watertrough",
+		"price": 249,
+		"category": "Hygiene",
+		"defname": "WaterTrough"
+	},
+	{
+		"abr": "watertub",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "WashBucket"
+	},
+	{
+		"abr": "watercressleaves",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawWatercress"
+	},
+	{
+		"abr": "watermelon",
+		"price": 2,
+		"category": "Fruits",
+		"defname": "Rawwatermelon"
+	},
+	{
+		"abr": "watermelonsoda",
+		"price": 25,
+		"category": "Garden soda",
+		"defname": "WatermelonSoda"
+	},
+	{
+		"abr": "weirdcheese",
+		"price": 13,
+		"category": "Meals",
+		"defname": "VCE_WeirdCheese"
+	},
+	{
+		"abr": "weirdmilk",
+		"price": 5,
+		"category": "Animal products",
+		"defname": "GR_WeirdMilk"
+	},
+	{
+		"abr": "wheat",
+		"price": 3,
+		"category": "Vegetarian",
+		"defname": "Rawwheat"
+	},
+	{
+		"abr": "whisky",
+		"price": 33,
+		"category": "Drugs",
+		"defname": "CPD_Whiskey"
+	},
+	{
+		"abr": "whitedevilstrand",
+		"price": 9,
+		"category": "Dyed Devilstrand",
+		"defname": "WhiteDevilstrand"
+	},
+	{
+		"abr": "whitehyperweave",
+		"price": 15,
+		"category": "Dyed Hyperweave",
+		"defname": "WhiteHyperweave"
+	},
+	{
+		"abr": "whitesynthread",
+		"price": 7,
+		"category": "Dyed Synthread",
+		"defname": "WhiteSynthread"
+	},
+	{
+		"abr": "wine",
+		"price": 33,
+		"category": "Drugs",
+		"defname": "VFEM_Wine"
+	},
+	{
+		"abr": "winebarrel",
+		"price": 95,
+		"category": "Production",
+		"defname": "VFEM_WineBarrel"
+	},
+	{
+		"abr": "wolfpelt",
+		"price": 158,
+		"category": "Raw resources",
+		"defname": "GR_WolfPelt"
+	},
+	{
+		"abr": "wolfrug",
+		"price": 161,
+		"category": "Furniture",
+		"defname": "GR_WolfRug"
+	},
+	{
+		"abr": "wolfalope",
+		"price": 617,
+		"category": "Animals",
+		"defname": "GR_Wolfalope"
+	},
+	{
+		"abr": "wolfbear",
+		"price": 617,
+		"category": "Animals",
+		"defname": "GR_Wolfbear"
+	},
+	{
+		"abr": "wolfbeaver",
+		"price": 458,
+		"category": "Animals",
+		"defname": "GR_Wolfbeaver"
+	},
+	{
+		"abr": "wolfcat",
+		"price": 617,
+		"category": "Animals",
+		"defname": "GR_Wolfcat"
+	},
+	{
+		"abr": "wolfchicken",
+		"price": 617,
+		"category": "Animals",
+		"defname": "GR_Wolfchicken"
+	},
+	{
+		"abr": "wolfchickenegg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "GR_WolfchickenEggFertilized"
+	},
+	{
+		"abr": "wolfchickenegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_WolfchickenEggUnfertilized"
+	},
+	{
+		"abr": "wolffalo",
+		"price": 617,
+		"category": "Animals",
+		"defname": "GR_Wolffalo"
+	},
+	{
+		"abr": "wolfhorse",
+		"price": 1417,
+		"category": "Animals",
+		"defname": "GR_Wolfhorse"
+	},
+	{
+		"abr": "wolfscarab",
+		"price": 667,
+		"category": "Animals",
+		"defname": "GR_Wolfscarab"
+	},
+	{
+		"abr": "wolfsnake",
+		"price": 750,
+		"category": "Animals",
+		"defname": "GR_Wolfsnake"
+	},
+	{
+		"abr": "woolycow",
+		"price": 767,
+		"category": "Animals",
+		"defname": "VFEV_WoolyCow"
+	},
+	{
+		"abr": "yellowbellpeppers",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawYellowBellPeppers"
+	},
+	{
+		"abr": "yellowcloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "YellowCloth"
+	},
+	{
+		"abr": "yellowdevilstrand",
+		"price": 9,
+		"category": "Dyed Devilstrand",
+		"defname": "YellowDevilstrand"
+	},
+	{
+		"abr": "yellowhyperweave",
+		"price": 15,
+		"category": "Dyed Hyperweave",
+		"defname": "YellowHyperweave"
+	},
+	{
+		"abr": "yellowsynthread",
+		"price": 7,
+		"category": "Dyed Synthread",
+		"defname": "YellowSynthread"
+	},
+	{
+		"abr": "yogurt",
+		"price": 42,
+		"category": "Sweets",
+		"defname": "yogurt"
+	},
+	{
+		"abr": "simplefishtrap",
+		"price": 46,
+		"category": "",
+		"defname": "VG_FishTrap"
+	},
+	{
+		"abr": "stalldoor",
+		"price": 18,
+		"category": "",
+		"defname": "ToiletStallDoor"
+	},
+	{
+		"abr": "swimmingpool",
+		"price": 1617,
+		"category": "",
+		"defname": "DBHSwimmingPool"
+	},
+	{
+		"abr": "waterwell",
+		"price": 248,
+		"category": "",
+		"defname": "WaterWellInlet"
+	},
+	{
+		"abr": "watertower",
+		"price": 258,
+		"category": "",
+		"defname": "WaterTowerS"
+	},
+	{
+		"abr": "windpump",
+		"price": 358,
+		"category": "",
+		"defname": "WindPump"
+	},
+	{
+		"abr": "sewageoutlet",
+		"price": 176,
+		"category": "",
+		"defname": "SewageOutlet"
+	},
+	{
+		"abr": "septictank",
+		"price": 658,
+		"category": "",
+		"defname": "SewageSepticTank"
+	},
+	{
+		"abr": "sewagetreatment",
+		"price": 1725,
+		"category": "",
+		"defname": "SewageTreatment"
+	},
+	{
+		"abr": "watertreatment",
+		"price": 1075,
+		"category": "",
+		"defname": "WaterTreatment"
+	},
+	{
+		"abr": "solarheater",
+		"price": 244,
+		"category": "",
+		"defname": "SolarHeater"
+	},
+	{
+		"abr": "steampipe",
+		"price": 11,
+		"category": "",
+		"defname": "steamPipe"
+	},
+	{
+		"abr": "steamvalve",
+		"price": 50,
+		"category": "",
+		"defname": "steamValve"
+	},
+	{
+		"abr": "weaponsresearchbench",
+		"price": 1217,
+		"category": "",
+		"defname": "WeaponsBench"
+	},
+	{
+		"abr": "thorturbine",
+		"price": 2017,
+		"category": "",
+		"defname": "Turbine"
+	},
+	{
+		"abr": "zeusturbine",
+		"price": 6075,
+		"category": "",
+		"defname": "BigTurbine"
+	},
+	{
+		"abr": "watercooling",
+		"price": 2025,
+		"category": "",
+		"defname": "CoolingWater"
+	},
+	{
+		"abr": "storagepool",
+		"price": 1850,
+		"category": "",
+		"defname": "storagePool"
+	},
+	{
+		"abr": "sarcophagustypex",
+		"price": 1167,
+		"category": "",
+		"defname": "ReactorSacrophagusB"
+	},
+	{
+		"abr": "tacs",
+		"price": 1258,
+		"category": "",
+		"defname": "RadarDish"
+	},
+	{
+		"abr": "teslacoil",
+		"price": 792,
+		"category": "",
+		"defname": "PPCTeslaCoil"
+	},
+	{
+		"abr": "sentinel",
+		"price": 2525,
+		"category": "",
+		"defname": "RimatomicsShieldGenerator"
+	},
+	{
+		"abr": "wall-mountedtorchlamp",
+		"price": 41,
+		"category": "",
+		"defname": "VFEM_WallTorchLamp"
+	},
+	{
+		"abr": "meatsmoker",
+		"price": 79,
+		"category": "",
+		"defname": "VFEM_MeatSmoker"
+	},
+	{
+		"abr": "cobblestonewall",
+		"price": 4,
+		"category": "",
+		"defname": "VFEM_CobblestoneWall"
+	},
+	{
+		"abr": "lowrockwall",
+		"price": 6,
+		"category": "",
+		"defname": "VFEM_LowRockWall"
+	},
+	{
+		"abr": "undergroundpowerconduit",
+		"price": 6,
+		"category": "",
+		"defname": "PowerConduitInvisible"
+	},
+	{
+		"abr": "undergroundwaterproofpowerconduit",
+		"price": 38,
+		"category": "",
+		"defname": "WaterproofPowerConduitInvisible"
+	},
+	{
+		"abr": "soylentmachine",
+		"price": 592,
+		"category": "",
+		"defname": "soylenttable"
+	},
+	{
+		"abr": "singledoor",
+		"price": 54,
+		"category": "",
+		"defname": "VFEArch_SingleDoor"
+	},
+	{
+		"abr": "singledoor(flipped)",
+		"price": 54,
+		"category": "",
+		"defname": "VFEArch_SingleDoor_Flipped"
+	},
+	{
+		"abr": "subterraneannutrientpastepipe",
+		"price": 13,
+		"category": "",
+		"defname": "VNPE_UndergroundNutrientPastePipe"
+	},
+	{
+		"abr": "sparkgrid",
+		"price": 79,
+		"category": "",
+		"defname": "SparkGrid"
+	},
+	{
+		"abr": "rustedlaboratorywall",
+		"price": 4,
+		"category": "",
+		"defname": "GR_RustedWallA"
+	},
+	{
+		"abr": "rustedlaboratorywall",
+		"price": 4,
+		"category": "",
+		"defname": "GR_RustedWallB"
+	},
+	{
+		"abr": "wall-mountedtorchlamp",
+		"price": 41,
+		"category": "",
+		"defname": "VFEM_WallTorchDarkLamp"
+	},
 	],
-	"total": 3618
+	"total": 3391
 }
